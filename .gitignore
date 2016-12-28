@@ -1,0 +1,4 @@
+jwt-generator/target/classes/
+jwt-generator/target/jwt-gen-0.1.jar
+jwt-generator/target/maven-archiver/
+jwt-generator/target/maven-status/
