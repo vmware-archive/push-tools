@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar ./jwt-generator/jwt-gen.jar $@
+java -jar ./jwt-generator/target/jwt-gen.jar $@
